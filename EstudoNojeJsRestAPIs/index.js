@@ -11,5 +11,5 @@ app.use("/users", usersRoutes);
 
 
 app.listen(3000, () => {
-  console.log("I am ready to lisen you");
+  console.log("Iniciando da porta 3000");
 });
