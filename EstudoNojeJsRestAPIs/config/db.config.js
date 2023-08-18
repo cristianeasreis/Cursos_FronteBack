@@ -3,8 +3,8 @@ const { createPool } = require("mysql2");
 const db = createPool({
   port: 3306,
   host: "localhost",
-  user: "CrisEstudos",
-  password: "israel01061985",
+  user: "",
+  password: "",
   database: "heroku_12f1937794459fe",
   waitForConnections: true,
   connectionLimit: 10,
