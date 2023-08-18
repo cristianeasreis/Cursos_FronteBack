@@ -1,4 +1,4 @@
-# Cursos_Udemy
-### Estuando na plataforma da Udemy
+# Cursos
 
-* NodeJs REST APIs - Projects [Express + Swagger + MySQL]
+* NodeJs REST APIs - Projects [Express + Swagger + MySQL] - Feito pela plataforma udemy
+
